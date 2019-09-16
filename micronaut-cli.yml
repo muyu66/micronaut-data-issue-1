@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.hrm
+---
+testFramework: junit
+sourceLanguage: java
